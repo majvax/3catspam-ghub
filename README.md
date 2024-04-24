@@ -1,11 +1,11 @@
 
 <div align="center">
-    <img src="https://github.com/majvax/3catspam-ghub/assets/77504686/224bb1e8-9d7d-4f95-913a-946b3d66b198" style="border-radius: 50%; width: 100px; height: 100px" alt="logo">
+    <img src="https://github.com/majvax/3catspam-ghub/assets/77504686/224bb1e8-9d7d-4f95-913a-946b3d66b198" style="border-radius: 50%; width: 300px; height: 300px" alt="logo">
     <H3>3 cat spam script</H3>
     <p> 
-        <a href="https://github.com/majvax/pyoverlay/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/majvax/pyoverlay?style=for-the-badge&labelColor=363a4f&color=b7bdf8"></a>
-        <a href="https://github.com/majvax/pyoverlay/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/majvax/pyoverlay?style=for-the-badge&labelColor=363a4f&color=f5a97f"></a>
-        <a href="https://github.com/majvax/pyoverlay/contributors"><img src="https://img.shields.io/github/contributors/majvax/pyoverlay?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+        <a href="https://github.com/majvax/3catspam-ghub/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/majvax/3catspam-ghub?style=for-the-badge&labelColor=363a4f&color=b7bdf8"></a>
+        <a href="https://github.com/majvax/3catspam-ghub/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/majvax/3catspam-ghub?style=for-the-badge&labelColor=363a4f&color=f5a97f"></a>
+        <a href="https://github.com/majvax/3catspam-ghub/contributors"><img src="https://img.shields.io/github/contributors/majvax/3catspam-ghub?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
     </p>    
 </div>
 
