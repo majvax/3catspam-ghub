@@ -42,7 +42,7 @@ dofile([[C:\path_to_the_folder\script.lua]])
 
 ##### You only need an extra configuration in settings.lua (this one is for the loadout shown in the video)
 ```lua
-settings = {
+return {
     cat_spam_key = 5,
     shotgun_save = 4,
     refresh_key = 2,
