@@ -26,14 +26,26 @@ https://github.com/majvax/3catspam-ghub/assets/77504686/bb5bc130-cffa-4fe9-99d8-
 
 ##### Just make a new script in logitech and wrote this code inside the editor (change the path)
 ```lua
-data =  dofile[[C:\path_to_the_folder\script.lua]]
+dofile([[C:\path_to_the_folder\script.lua]])
+```
+##### Just make a new script in logitech and wrote this code inside the editor (change the path)
+the base configuration is located in C:\pg3d\settings.lua
+but you can overwrite like this
+ ```lua
+path=[[C:\path_to_the_folder\settings.lua]]
+dofile([[C:\path_to_the_folder\script.lua]])
 ```
 
-##### You only need an extra configuration (this one is for the loadout shown in the video)
+
+
+
+
+##### You only need an extra configuration in settings.lua (this one is for the loadout shown in the video)
 ```lua
 settings = {
-  cat_spam_key = 5,
-  ultimatum_save = 4,
+    cat_spam_key = 5,
+    shotgun_save = 4,
+    refresh_key = 2,
   weapon = {
       heavy    = {key = 0x07, delay = 400},
       sniper   = {key = 0x06, delay = 450},
