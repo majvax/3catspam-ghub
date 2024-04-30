@@ -75,6 +75,13 @@ settings = {
 > [!NOTE]
 > scripting api documentation can be found [here](https://douile.com/logitech-toggle-keys/APIDocs.pdf), page 42-44 for keycode
 
+<hr>
+<div align="center" id="usage">
+    <H3>Tutorial 🎥</H3>
+</div>
+
+https://github.com/majvax/pg3d-ghub/assets/77504686/2e3b6baa-f04f-4cd8-8e22-af5e62e19bfa
+
 
 
 
