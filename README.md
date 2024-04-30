@@ -30,7 +30,7 @@ dofile([[C:\path_to_the_folder\script.lua]])
 ```
 ##### Just make a new script in logitech and wrote this code inside the editor (change the path)
 the base configuration is located in C:\pg3d\settings.lua
-but you can overwrite like this
+but you can overwrite like this. It can allow you to quickly change between loadout.
  ```lua
 path=[[C:\path_to_the_folder\settings.lua]]
 dofile([[C:\path_to_the_folder\script.lua]])
